@@ -1,0 +1,35 @@
+.panel-body{
+	margin: 0px;
+}
+
+.panel{
+	margin: 3px;
+	padding: 0px;
+	margin-left: 3%;
+	margin-right: 3%;
+}
+
+.panel .panel-default{
+	margin: 0px;
+	padding: 0px;
+}
+
+.bottom-panel{
+	margin-bottom: 25px
+}
+
+.navbar{
+	margin-bottom: 0px
+}
+
+.my-info-all{margin-bottom: 4px;}
+
+.my-info-head{ font-family: lobster;}
+
+.my-info-bottom{}
+
+.person-head{
+	border-radius: 15px;
+border: 3px solid #EFEFEF;
+box-shadow: 1px 1px 8px #999;
+}
